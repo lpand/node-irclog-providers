@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git://github.com/CarettaCaretta/node-irclog-providers.git"
   },
+  "dependencies" : {
+    "mongodb": "1.2.8",
+    "irclog-util": "git+https://github.com/CarettaCaretta/node-irclog-util.git"
+  },
   "author": "",
   "license": "BSD",
   "gitHead": "8aa80f9410fe56439c4005c69db50299d5ac8b6c"
